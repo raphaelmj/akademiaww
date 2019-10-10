@@ -1,0 +1,254 @@
+{
+    "url": [
+    {
+      "loc": "/",
+      "name": "Home",
+      "priority": "1.00"
+    },
+    {
+      "loc": "/lista-szkolen",
+      "name": "Lista szkoleń",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/promocje",
+      "name": "Promocje",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/terminy",
+      "name": "Terminy",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/nasi-absolwenci",
+      "name": "Nasi absolwenci",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/nasi-klienci",
+      "name": "Nasi klienci",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/kontakt",
+      "name": "Kontakt",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/tworzenie-stron-www",
+      "name": "Tworzenie stron www",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/grafika",
+      "name": "Grafika",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/ms-office",
+      "name": "Ms Office",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/programowanie",
+      "name": "Programowanie",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/video",
+      "name": "Video",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/tworzenie-stron-www/junior-web-developer-projektowanie-i-budowa-stron-internetowych",
+      "name": "Junior Webdeveloper projektowanie i budowa-stron-internetowych",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/tworzenie-stron-www/junior-front-end-developer",
+      "name": "Junior frontend developer",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/tworzenie-stron-www/junior-back-end-developer",
+      "name": "Junior backend developer",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/tworzenie-stron-www/html-5-css-3",
+      "name": "HTML5 CSS3",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/szkolenia-dla-bezrobotnych",
+      "name": "Szkolenia dla bezrobotnych",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/2-uncategorised/76-regulamin-szkolen",
+      "name": "Regulamin szkolen",
+      "priority": "0.80"
+    },
+    {
+      "loc": "/tworzenie-stron-www/junior-backend-javascript-developer",
+      "name": "Junior backend javascript developer",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/tworzenie-stron-www/cms-wordpress",
+      "name": "CMS Wordpress",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/tworzenie-stron-www/webdesigner",
+      "name": "Webdesigner",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/tworzenie-stron-www/webdeveloper-php",
+      "name": "Webdeveloper php",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/tworzenie-stron-www/cms-joomla",
+      "name": "CMS Joomla",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/tworzenie-stron-www/css-zaawawansowany",
+      "name": "CSS zaawawansowany",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/tworzenie-stron-www/html-dla-e-mailingu",
+      "name": "HTML dla e-mailingu",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/tworzenie-stron-www/jquery",
+      "name": "Jquery",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/tworzenie-stron-www/java-script",
+      "name": "Java Script",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/ecdl-base",
+      "name": "2019-01-27T17:14:15+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/ecdl-advanced",
+      "name": "ECDL Base",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/ecdl-standard",
+      "name": "ECDL Standard",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/word-i",
+      "name": "Word I",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/word-ii",
+      "name": "Word II",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/power-point",
+      "name": "Power Point",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/excel-i",
+      "name": "Excel I",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/excel-ii",
+      "name": "Excel II",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/access-i",
+      "name": "Access I",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/ms-office/access-ii",
+      "name": "Access II",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/grafika/kompleksowy-kurs-dtp",
+      "name": "2019-01-27T17:14:20+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/grafika/adobe-photoshop-dtp",
+      "name": "2019-01-27T17:14:21+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/grafika/adobe-illustrator-dtp",
+      "name": "2019-01-27T17:14:21+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/grafika/adobe-indesign",
+      "name": "2019-01-27T17:14:22+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/grafika/adobe-animate-cc",
+      "name": "2019-01-27T17:14:22+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/grafika/gimp",
+      "name": "2019-01-27T17:14:23+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/programowanie/javascript",
+      "name": "2019-01-27T17:14:23+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/programowanie/angular",
+      "name": "2019-01-27T17:14:23+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/programowanie/php-mysql",
+      "name": "2019-01-27T17:14:24+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/programowanie/java-i",
+      "name": "2019-01-27T17:14:25+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/regulamin",
+      "name": "2019-01-27T17:14:25+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/component/content/?layout=school:course&id=70&Itemid=169",
+      "name": "2019-01-27T17:14:25+00:00",
+      "priority": "0.64"
+    },
+    {
+      "loc": "/adobe-photoshop-podstawowy",
+      "name": "2019-01-27T17:14:26+00:00",
+      "priority": "0.64"
+    }
+  ]
+}

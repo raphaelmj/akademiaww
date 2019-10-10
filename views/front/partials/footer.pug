@@ -1,0 +1,26 @@
+footer
+    div.line-rot-left-green
+    div.line-rot-right-pink
+    div.absolute-footer-in
+        div.container
+            div.row
+                div.col-xs-12.col-sm-12.col-md-6
+                    div.element-contact
+                        div.line-section
+                            div.line
+                            div.inside-icon
+                                i.fas.fa-mobile-alt
+                        div.data-contact
+                            a(href="tel: +48 504 101 009") +48 504 101 009
+                    div.element-contact
+                        div.line-section
+                            div.line
+                            div.inside-icon
+                                i.far.fa-envelope
+                        div.data-contact
+                            a(href="mailto:kontakt@dr-dieta.com") kontakt@dr-dieta.com
+                div.col-xs-12.col-sm-12.col-md-6
+                    ul.bottom-menu-foot
+                        each link in menu
+                            li.link-el
+                                a(href=link.uri) #{link.title}

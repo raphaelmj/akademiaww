@@ -1,0 +1,55 @@
+node c.js menu-create
+
+node c.js create-links --menu menu-www --parent 1
+node c.js create-links --menu menu-grafika --parent 29
+node c.js create-links --menu menu-office --parent 42
+node c.js create-links --menu menu-programowanie --parent 53
+node c.js create-links --menu menu-video --parent 62
+
+
+node c.js create-school --link 1 --school Szkoła WWW
+node c.js create-school --link 29 --school Grafika
+node c.js create-school --link 42 --school MS Office
+node c.js create-school --link 53 --school Programowanie
+node c.js create-school --link 62 --school Video
+
+node c.js add-course --school 1 --course 1 --link 2
+node c.js add-course --school 1 --course 3 --link 22
+node c.js add-course --school 1 --course 75 --link 26
+node c.js add-course --school 1 --course 88 --link 28
+node c.js add-course --school 1 --course 16 --link 6
+node c.js add-course --school 1 --course 27 --link 17
+node c.js add-course --school 1 --course 4 --link 5
+node c.js add-course --school 1 --course 19 --link 9
+node c.js add-course --school 1 --course 25 --link 15
+node c.js add-course --school 1 --course 17 --link 7
+node c.js add-course --school 1 --course 81 --link 10
+node c.js add-course --school 1 --course 22 --link 12
+node c.js add-course --school 1 --course 23 --link 13
+
+node c.js add-course --school 2 --course 36 --link 30
+node c.js add-course --school 2 --course 37 --link 31
+node c.js add-course --school 2 --course 38 --link 32
+node c.js add-course --school 2 --course 39 --link 33
+node c.js add-course --school 2 --course 82 --link 40
+node c.js add-course --school 2 --course 44 --link 38
+
+node c.js add-course --school 3 --course 45 --link 43
+node c.js add-course --school 3 --course 46 --link 44
+node c.js add-course --school 3 --course 74 --link 52
+node c.js add-course --school 3 --course 47 --link 45
+node c.js add-course --school 3 --course 48 --link 46
+node c.js add-course --school 3 --course 49 --link 47
+node c.js add-course --school 3 --course 50 --link 48
+node c.js add-course --school 3 --course 51 --link 49
+node c.js add-course --school 3 --course 52 --link 50
+node c.js add-course --school 3 --course 53 --link 51
+
+node c.js add-course --school 4 --course 23 --link 60
+node c.js add-course --school 4 --course 54 --link 54
+
+node c.js add-course --school 5 --course 54 --link 54
+
+node c.js add-user --user superadmin --password Copernicus30
+
+ng build --output-path="../static/dist"
